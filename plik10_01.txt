@@ -1,1 +1,2 @@
 galaz master: plik10_01.txt
+galaz branch01: plik10_01.txt
